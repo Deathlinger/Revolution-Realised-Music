@@ -1,0 +1,11 @@
+
+#music_station = "base_music" We don't need this, y'all.
+#
+#music = {
+#	song = "maintheme"
+#	chance = {
+#		modifier = {
+#			factor = 0.5
+#		}		
+#	}
+#}

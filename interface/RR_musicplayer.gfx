@@ -1,0 +1,58 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_pirate_radio_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//RR_pirate_radio_bg.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_pop_pop_britannia_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//RR_pop_pop_britannia_bg.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_hippie_jams_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//RR_hippie_jams_bg.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_new_york_minute_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//RR_new_york_minute_bg.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_rock_and_sock_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//RR_rock_and_sock_bg.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_black_and_blues_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//RR_black_and_blues_bg.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_downtown_motor_tunes_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//RR_downtown_motor_tunes_bg.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_voice_of_the_worker_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//RR_voice_of_the_worker_bg.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_country_freedom_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//RR_country_freedom_bg.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_kentucky_klassic_kommunications_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//RR_kentucky_klassic_kommunications_bg.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_patriotic_66_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//RR_patriotic_66_bg.dds"
+		noOfFrames = 2
+	}
+	
+}

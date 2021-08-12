@@ -1,0 +1,2830 @@
+# MAIN THEME - CUSTOM
+music = {
+	name = "maintheme"
+	file = "rr_main_theme.ogg"
+	volume = 0.65
+}
+
+# PIRATE RADIO
+music = {
+	name = "Wild Thing - The Troggs"
+	file = "pirate_radio/wild_thing.ogg"
+	volume = 0.65
+}
+music = {
+	name = "One Bourbon, One Scotch, One Beer - George Thoregood"
+	file = "pirate_radio/one_bourbon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "A Whiter Shade of Pale - Procol Harum"
+	file = "pirate_radio/a_whiter_shade_of_pale.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Good, The Bad, The Ugly - Ad"
+	file = "pirate_radio/ad_good_bad_ugly.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pinball Wizard - The Who"
+	file = "pirate_radio/pinball_wizard.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Won't Get Fooled Again - The Who"
+	file = "pirate_radio/wont_get_fooled_again.ogg"
+	volume = 0.65
+}
+music = {
+	name = "My Generation - The Who"
+	file = "pirate_radio/my_generation.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Swingiest Station in Town - Swinging Radio England"
+	file = "pirate_radio/jingle_swinging_station.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Little Girl - Creedance Clearwater Revival"
+	file = "pirate_radio/little_girl.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Proud Mary - Creedance Clearwater Revival"
+	file = "pirate_radio/proud_mary.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Fortunate Son - Creedance Clearwater Revival"
+	file = "pirate_radio/fortunate_son.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Barbarella - Ad"
+	file = "pirate_radio/ad_barbarella.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Put a Spell on You - Creedance Clearwater Revival"
+	file = "pirate_radio/spell_on_you_ccr.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I've Been Loving You - Elton John"
+	file = "pirate_radio/ive_been_loving_you.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Street Fighting Man - The Rolling Stones"
+	file = "pirate_radio/street_fighting_man.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Good Morning - Swinging Radio England"
+	file = "pirate_radio/jingle_good_morning.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Time Is On My Side - The Rolling Stones"
+	file = "pirate_radio/time_is_on_my_side.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Paint It Black - The Rolling Stones"
+	file = "pirate_radio/paint_it_black.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Jumpin' Jack Flash - The Rolling Stones"
+	file = "pirate_radio/jumpin_jack_flash.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Jokers - Ad"
+	file = "pirate_radio/ad_the_jokers.ogg"
+	volume = 0.65
+}
+music = {
+	name = "House of the Rising Sun - The Animals"
+	file = "pirate_radio/house_of_the_rising_sun.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Don't Let Me Be Misunderstood - The Animals"
+	file = "pirate_radio/dont_let_me_be_misunderstood.ogg"
+	volume = 0.65
+}
+music = {
+	name = "We Gotta Get Outta This Place - The Animals"
+	file = "pirate_radio/we_gotta_get_out.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Green is for Go - Radio Luxembourg"
+	file = "pirate_radio/jingle_radio_luxembourg.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kicks - Paul Revere & The Raiders"
+	file = "pirate_radio/kicks.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Eve of Destruction - Barry McGuire"
+	file = "pirate_radio/eve_of_destruction.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Heya - Jeronimo"
+	file = "pirate_radio/heya.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Coca Cola The Who - Ad"
+	file = "pirate_radio/ad_coke.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Harsh Reality - When I Move"
+	file = "pirate_radio/harsh_reality.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Fought the Law - Bobby Fuller"
+	file = "pirate_radio/i_fought_the_law.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Louie Louie - The Kingsmen"
+	file = "pirate_radio/louie_louie.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Remember This Golden Classic - Swinging Radio England"
+	file = "pirate_radio/jingle_golden.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Surfin' Bird - The Trashmen"
+	file = "pirate_radio/surfin_bird.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Jack The Ripper - Screaming Lord Sutch"
+	file = "pirate_radio/jack_the_ripper.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Shine On You Crazy Diamond - Pink Floyd"
+	file = "pirate_radio/crazy_diamond.ogg"
+	volume = 0.65
+}
+music = {
+	name = "GO! Magazine - Ad"
+	file = "pirate_radio/ad_go_magazine.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "White Room - Cream"
+	file = "pirate_radio/white_room.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sunshine Of Your Love - Cream"
+	file = "pirate_radio/sunshine_of_your_love.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Stairway To Heaven - Led Zeppelin"
+	file = "pirate_radio/sunshine_of_your_love.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "You're a Winner - Swinging Radio England"
+	file = "pirate_radio/jingle_youre_a_winner.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Immigrant Song - Led Zeppelin"
+	file = "pirate_radio/immigrant_song.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Space Oddity - David Bowie"
+	file = "pirate_radio/space_oddity.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mr. Richland's Favourite Song - Harry Nilsson"
+	file = "pirate_radio/mr_richland.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Nehru Suits - Ad"
+	file = "pirate_radio/ad_nehru.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Born to be Wild - Steppenwolfe"
+	file = "pirate_radio/born_to_be_wild.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Shout - Otis Day"
+	file = "pirate_radio/shout.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Gimmie Some Lovin' - The Spencer Davis Group"
+	file = "pirate_radio/gimmie_some_lovin.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Go Go - Radio Caroline"
+	file = "pirate_radio/jingle_go.ogg"
+	volume = 0.65
+}
+music = {
+	name = "21st Century Schizoid Man - King Crimson"
+	file = "pirate_radio/schizoid_man.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sky Pilot - Eric Burdon & The Animals"
+	file = "pirate_radio/sky_pilot.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kill for Peace - The Fugs"
+	file = "pirate_radio/kill_for_peace.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Falstaff Beer - Ad"
+	file = "pirate_radio/ad_falstaff.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Letter - The Box Tops"
+	file = "pirate_radio/the_letter.ogg"
+	volume = 0.65
+}
+music = {
+	name = "War (What is it good for?) - Edwin Starr"
+	file = "pirate_radio/war.ogg"
+	volume = 0.65
+}
+music = {
+	name = "2+2 = ? - The Bob Seger System"
+	file = "pirate_radio/2.ogg"
+	volume = 0.65
+}
+music = {
+	name = "England's Finest - Swinging Radio England"
+	file = "pirate_radio/jingle_england.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Billy, Don't Be A Hero - Bo Donaldson"
+	file = "pirate_radio/billy.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Roads To Moscow - Al Stewart"
+	file = "pirate_radio/roads_to_moscow.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Revolution - The Beatles"
+	file = "pirate_radio/revolution.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tom Donahue Jeans - Ad"
+	file = "pirate_radio/ad_jeans.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Don't Let Me Down - The Beatles"
+	file = "pirate_radio/dont_let_me_down.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Drove All Night - Roy Orberson"
+	file = "pirate_radio/drove_all_night.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sometimes The Good Guys Don't Wear White - The Standells"
+	file = "pirate_radio/good_guys_white.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Radio Scotland"
+	file = "pirate_radio/jingle_scotland.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dirty Old Man - Them"
+	file = "pirate_radio/dirty_old_man.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Evil Woman - Spooky Tooth"
+	file = "pirate_radio/evil_woman.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Witch - The Sonics"
+	file = "pirate_radio/the_witch.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Psyche Out - Ad"
+	file = "pirate_radio/ad_psyche_out.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I'm Waiting For My Man - The Velvet Underground"
+	file = "pirate_radio/my_man.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Wanna Be Your Dog - The Stooges"
+	file = "pirate_radio/your_dog.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Last Day of Radio England"
+	file = "pirate_radio/jingle_last_day.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Suzie Q - Johnny Winter"
+	file = "pirate_radio/suzie_q.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mustang Sally - Wilson Pickett"
+	file = "pirate_radio/mustang_sally.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Helter Skelter - The Beatles"
+	file = "pirate_radio/helter_skelter.ogg"
+	volume = 0.65
+}
+
+
+## Pop Pop Britannia ##
+
+music = {
+	name = "Village Green Preservation Society - The Kinks"
+	file = "pop_pop_britannia/village_green.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Waterloo Sunset - The Kinks"
+	file = "pop_pop_britannia/waterloo_sunset.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lola - The Kinks"
+	file = "pop_pop_britannia/lola.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Anti-LSD PSA"
+	file = "pop_pop_britannia/lsd_psa.ogg"
+	volume = 0.65
+}
+music = {
+	name = "In The Year 2525 - Zager & Evans"
+	file = "pop_pop_britannia/year_2525.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Look What They've Done To My Song Ma - Melanie"
+	file = "pop_pop_britannia/look_what.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Where Did Our Love Go - The Supremes"
+	file = "pop_pop_britannia/love_go.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "He's A Rebel - The Crystals"
+	file = "pop_pop_britannia/hes_a_rebel.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Monster Mash - Bobby Pickett & The Crypt-Kickers"
+	file = "pop_pop_britannia/monster_mash.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mrs. Robinson - Simon and Garfunkle"
+	file = "pop_pop_britannia/mrs_robinson.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Radio One First Broadcast"
+	file = "pop_pop_britannia/radio_1.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Boxer - Simon and Garfunkle"
+	file = "pop_pop_britannia/the_boxer.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Going Up the Country - Canned Heat"
+	file = "pop_pop_britannia/up_the_country.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Those Were The Days - Mary Hopkin"
+	file = "pop_pop_britannia/those_were_the_days.ogg"
+	volume = 0.65
+}
+music = {
+	name = "These Boots Are Made For Walkin' - Nancy Sinatra"
+	file = "pop_pop_britannia/boots_walkin.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Twist - Chubby Checker"
+	file = "pop_pop_britannia/the_twist.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Will U Still Love Me Tomorrow - The Shirelles"
+	file = "pop_pop_britannia/will_u_still_love_me.ogg"
+	volume = 0.65
+}
+music = {
+	name = "We Pick The Hits"
+	file = "pop_pop_britannia/pepper_pick_hits.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Unchained Melody - Righteous Brothers"
+	file = "pop_pop_britannia/unchained_melody.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Just Once In My Life - Righteous Brothers"
+	file = "pop_pop_britannia/once_in_my_life.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Beautiful Isle of Somewhere - Bill Gathers"
+	file = "pop_pop_britannia/beautiful_isle_of_somewhere.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Both Sides Now - Joni Mitchell"
+	file = "pop_pop_britannia/both_sides_now.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Boom Bang A Bang - Lulu"
+	file = "pop_pop_britannia/boom_bang.ogg"
+	volume = 0.65
+}
+music = {
+	name = "She's Not There - The Zombies"
+	file = "pop_pop_britannia/shes_not_there.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Backing Britain"
+	file = "pop_pop_britannia/backing_britain.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Butcher's Tale - The Zombies"
+	file = "pop_pop_britannia/the_butcher.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Walk Away Renee - The Left Bank"
+	file = "pop_pop_britannia/walk_away_renee.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Brown Eyed Girl - Van Morisson"
+	file = "pop_pop_britannia/brown_eyed_girl.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Wouldn't It Be Nice - The Beach Boys"
+	file = "pop_pop_britannia/be_nice.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Good Vibrations - The Beach Boys"
+	file = "pop_pop_britannia/good_vibrations.ogg"
+	volume = 0.65
+}
+music = {
+	name = "God Only Knows - The Beach Boys"
+	file = "pop_pop_britannia/god_only_knows.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Radio One is Wonderful"
+	file = "pop_pop_britannia/radio_1_wonderful.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I'm A Believer - The Monkees"
+	file = "pop_pop_britannia/believer.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Last Train to Clarksville - The Monkees"
+	file = "pop_pop_britannia/last_train.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Got You Babe - Sonny & Cher"
+	file = "pop_pop_britannia/i_got_you_babe.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bang Bang - Sonny & Cher"
+	file = "pop_pop_britannia/bang_bang.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Cruel War - Cher"
+	file = "pop_pop_britannia/cruel_war.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Glad All Over - Dave Clark Five"
+	file = "pop_pop_britannia/glad_all_over.ogg"
+	volume = 0.65
+}
+music = {
+	name = "BBC Going Home Time"
+	file = "pop_pop_britannia/bbc_going_home.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Game of Love - Wayne Fontana"
+	file = "pop_pop_britannia/game_of_love.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sugar and Spice - The Searchers"
+	file = "pop_pop_britannia/sugar_and_spice.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ticket To Ride - The Beatles"
+	file = "pop_pop_britannia/ticket_to_ride.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Nowhere Man - The Beatles"
+	file = "pop_pop_britannia/nowhere_man.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Twist and Shout - The Beatles"
+	file = "pop_pop_britannia/twist_and_shout.ogg"
+	volume = 0.65
+}
+music = {
+	name = "A Day in the Life - The Beatles"
+	file = "pop_pop_britannia/a_day_in_the_life.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Radio One Is A Good Time"
+	file = "pop_pop_britannia/radio_1_goodtime.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Crimson And Clover - Tommy James"
+	file = "pop_pop_britannia/crimson_and_clover.ogg"
+	volume = 0.65
+}
+music = {
+	name = "River Deep - Mountain High - Ike & Tina Turner"
+	file = "pop_pop_britannia/river_mountain.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Looked Away - Derek and the Dominos"
+	file = "pop_pop_britannia/i_looked_away.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Elenore - The Turtles"
+	file = "pop_pop_britannia/elenore.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Judy in Disguise (With Glasses) - John Fred & Playboy Band"
+	file = "pop_pop_britannia/judy_in_disguise.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Yesterday Man - Chris Andrews"
+	file = "pop_pop_britannia/yesterday_man.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Much More Bright Exciting Radio One"
+	file = "pop_pop_britannia/bbc_more_bright.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Pipeline - The Chantays"
+	file = "pop_pop_britannia/pipeline.ogg"
+	volume = 0.65
+}
+music = {
+	name = "California Sun - The Rivieras"
+	file = "pop_pop_britannia/california_sun.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Because They're Young - Duane Eddy"
+	file = "pop_pop_britannia/theyre_young.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Only Want To Be With You - Dusty Springfield"
+	file = "pop_pop_britannia/i_only_want_you.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I'm Henry the 8th - Hermann Hermits"
+	file = "pop_pop_britannia/henry_8th.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Leader Of The Pack - The Shangri-Las"
+	file = "pop_pop_britannia/leader_of_the_pack.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Radio One Music Scene"
+	file = "pop_pop_britannia/radio_1_music_scene.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Little Cowboy - Harry Nilsson"
+	file = "pop_pop_britannia/little_cowboy.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Like It - Gerry & The Pacemakers"
+	file = "pop_pop_britannia/i_like_it.ogg"
+	volume = 0.65
+}
+music = {
+	name = "New York Mining Disaster - Bee Gees"
+	file = "pop_pop_britannia/new_york_mining.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Since You've Asked - Judy Collins"
+	file = "pop_pop_britannia/youve_asked.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Want You - Jeanne & The Big Guys"
+	file = "pop_pop_britannia/want_you.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Why You Should Use 47.5"
+	file = "pop_pop_britannia/47.5.ogg"
+	volume = 0.65
+}
+
+# Hippie Jams
+
+music = {
+	name = "Yellow Submarine - The Beatles"
+	file = "hippie_jams/yellow_submarine.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lucy in the Sky with Diamonds - The Beatles"
+	file = "hippie_jams/lucy.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Somebody to Love - Jefferson Airplane"
+	file = "hippie_jams/somebody_to_love.ogg"
+	volume = 0.65
+}
+music = {
+	name = "White Rabbit - Jefferson Airplane"
+	file = "hippie_jams/white_rabbit.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Think We're Alone Now - Tommy James"
+	file = "hippie_jams/alone_now.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Runaround Sue - Dion"
+	file = "hippie_jams/runaround_sue.ogg"
+	volume = 0.65
+}
+music = {
+	name = "San Francisco - Scott McKenzie"
+	file = "hippie_jams/san_francisco.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Times They Are A Changin - Bob Dylan"
+	file = "hippie_jams/times_changin.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hurricane - Bob Dylan"
+	file = "hippie_jams/hurricane.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Masters of War - Bob Dylan"
+	file = "hippie_jams/masters_of_war.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Knockin' On Heaven's Door - Bob Dylan"
+	file = "hippie_jams/heavens_door.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Blowing in the Wind - Bob Dylan"
+	file = "hippie_jams/blowing_in_the_wind.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Only A Pawn In Their Game - Bob Dylan"
+	file = "hippie_jams/pawn_in_game.ogg"
+	volume = 0.65
+}
+music = {
+	name = "For What It's Worth - Buffalo Springfield"
+	file = "hippie_jams/what_its_worth.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Magic Carpet Ride - Steppenwolfe"
+	file = "hippie_jams/magic_carpet_ride.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Draft Resister - Steppenwolfe"
+	file = "hippie_jams/draft_resister.ogg"
+	volume = 0.65
+}
+music = {
+	name = "In-A-Gadda-Da-Vida - Iron Butterfly"
+	file = "hippie_jams/gadda_da_vida.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tala Sawari - Ravi Shankar"
+	file = "hippie_jams/tala_sawari.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Paper Sun - Traffic"
+	file = "hippie_jams/paper_sun.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Real Life Permanent Dream - Tomorrow"
+	file = "hippie_jams/real_life_permanent_dream.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hurdy Gurdy Man - Donovan"
+	file = "hippie_jams/hurdy_gurdy.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Turn Down Day - The Cyrkle"
+	file = "hippie_jams/turn_around_day.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Black Sabbath - Black Sabbath"
+	file = "hippie_jams/black_sabbath.ogg"
+	volume = 0.65
+}
+music = {
+	name = "High Flying Bird - Richie Havens"
+	file = "hippie_jams/high_flying_bird.ogg"
+	volume = 0.65
+}
+music = {
+	name = "From the Prison - Richie Havens"
+	file = "hippie_jams/from_the_prison.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Get Together - The Youngbloods"
+	file = "hippie_jams/get_together.ogg"
+	volume = 0.65
+}
+music = {
+	name = "In a Rainbow - Sweetwater"
+	file = "hippie_jams/rainbow.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Jennifer - Bert Sommer"
+	file = "hippie_jams/jennifer.ogg"
+	volume = 0.65
+}
+music = {
+	name = "If I Were a Carpenter - Tim Hardin"
+	file = "hippie_jams/carpenter.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Amazing Grace - Judy Collins"
+	file = "hippie_jams/amazing_grace.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sweet Sir Galahad - Joan Baez"
+	file = "hippie_jams/galahad.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sunny Afternoon - The Kinks"
+	file = "hippie_jams/sunny_afternoon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Castles Made of Sand - Jimi Hendrix"
+	file = "hippie_jams/castles_made_of_sand.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Foxey Lady - Jimi Hendrix"
+	file = "hippie_jams/foxey_lady.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Purple Haze - Jimi Hendrix"
+	file = "hippie_jams/purple_haze.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ohio - Crosby, Stills, Nash, & Young"
+	file = "hippie_jams/ohio.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Everyday People - Sly & The Family Stone"
+	file = "hippie_jams/everyday_people.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Cry Baby - Janis Joplin"
+	file = "hippie_jams/cry_baby.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kozmic Blues - Janis Joplin"
+	file = "hippie_jams/kozmic_blues.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Break on Through - The Doors"
+	file = "hippie_jams/break_on_through.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Light My Fire - The Doors"
+	file = "hippie_jams/light_my_fire.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Crystal Ship - The Doors"
+	file = "hippie_jams/crystal_ship.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Unkown Soldier - The Doors"
+	file = "hippie_jams/unknown_soldier.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Age of Aquarius - The Fifth Dimension"
+	file = "hippie_jams/age_of_aquarius.ogg"
+	volume = 0.65
+}
+music = {
+	name = "American Woman - The Guess Who"
+	file = "hippie_jams/american_woman.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I am Woman - Helen Reddy"
+	file = "hippie_jams/i_am_woman.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Windmills of your Mind - Michel Legrand"
+	file = "hippie_jams/windmills.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Psychotic Reaction - The Count Five"
+	file = "hippie_jams/psychotic_reaction.ogg"
+	volume = 0.65
+}
+music = {
+	name = "They Saw The Fat One Coming - Strawberry Alarm Clock"
+	file = "hippie_jams/fat_one.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Sound of Silence - Simon and Garfunkle"
+	file = "hippie_jams/hello_darkness.ogg"
+	volume = 0.65
+}
+music = {
+	name = "St. Stephen - Grateful Dead"
+	file = "hippie_jams/st_stephen.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Garden of Earthly Delights - The United States of America"
+	file = "hippie_jams/earthly_delights.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Evil Ways - Santana"
+	file = "hippie_jams/evil_ways.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lets Go Get Stoned - Joe Cocker"
+	file = "hippie_jams/get_stoned.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Different Drum - The Stone Poneys"
+	file = "hippie_jams/different_drum.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tiny Goddess - Nirvana"
+	file = "hippie_jams/tiny_goddess.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Give a Damn - Spanky & Our Gang"
+	file = "hippie_jams/give_a_damn.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Working Class Hero - Plastic Ono Band"
+	file = "hippie_jams/working_class_hero.ogg"
+	volume = 0.65
+}
+
+## New York Minute ##
+music = {
+	name = "Interview with Andy Worhol & Edie Sedgwick"
+	file = "new_york_minute/show_andy_worhol.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Way You Look Tonight - Frank Sinatra"
+	file = "new_york_minute/the_way_you_look_tonight.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "What is the Fabian Society with Groucho Marx"
+	file = "new_york_minute/show_the_fabian_society.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Something Stupid - Frank Sinatra & Nancy Sinatra"
+	file = "new_york_minute/something_stupid.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Interview with Frank Sinatra"
+	file = "new_york_minute/show_frank_sinatra.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Have Dreamed - Frank Sinatra"
+	file = "new_york_minute/i_have_dreamed.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Your FBI: Pan American Patriots"
+	file = "new_york_minute/show_your_fbi_pan_america.ogg"
+	volume = 1.5
+}
+music = {
+	name = "New York New York - Frank Sinatra"
+	file = "new_york_minute/new_york_new_york.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "George Carlin Reelin in the Years"
+	file = "new_york_minute/show_george_carlin.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Everybody Loves Somebody - Dean Martin"
+	file = "new_york_minute/everybody_loves_somebody.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "John J Anthony Marital Relations"
+	file = "new_york_minute/show_john_j_anthony.ogg"
+	volume = 1.5
+}
+music = {
+	name = "Ain't That A Kick In The Head - Dean Martin"
+	file = "new_york_minute/kick_in_the_head.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Interview with Marilyn Monroe"
+	file = "new_york_minute/show_marilyn_monroe.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Have But One Heart - Dean Martin"
+	file = "new_york_minute/i_have_but_one_heart.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Your FBI: The Melancholy Mind Reader"
+	file = "new_york_minute/show_your_fbi_mind_reader.ogg"
+	volume = 1.5
+}
+music = {
+	name = "Gonna Build Me a Mountain - Sammy Davis Jr"
+	file = "new_york_minute/gonna_build_me_a_mountain.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Salvador Dali What's My Line?"
+	file = "new_york_minute/show_salvador_dali.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I've Gotta Be Me - Sammy Davis Jr"
+	file = "new_york_minute/gotta_be_me.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Interview with Sammy Davis Jr"
+	file = "new_york_minute/show_sammy_davis_jr.ogg"
+	volume = 1.5
+}
+music = {
+	name = "All of You - Sammy Davis Jr"
+	file = "new_york_minute/all_of_you.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "How To Spot A Communist"
+	file = "new_york_minute/show_spot_a_communist.ogg"
+	volume = 1.5
+}
+music = {
+	name = "Mambo Italiano - Rosemary Clooney"
+	file = "new_york_minute/mambo_italiano.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Hidden Truth: Two Deaths by Poison"
+	file = "new_york_minute/show_hidden_truth_death_by_poison.ogg"
+	volume = 1.5
+}
+music = {
+	name = "I Just Don't Know What to Do with Myself - Dionne Warwick"
+	file = "new_york_minute/with_myself.ogg"
+	volume = 0.65
+}
+
+
+music = {
+	name = "Free University"
+	file = "new_york_minute/ad_free_university.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Alfie - Dionne Warwick"
+	file = "new_york_minute/alfie.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Interview with Leonard Cohen"
+	file = "new_york_minute/show_leonard_cohen.ogg"
+	volume = 1.5
+}
+music = {
+	name = "Unforgettable - Nat King Cole"
+	file = "new_york_minute/unforgettable.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Doctors Smoke Camels"
+	file = "new_york_minute/ad_doctors_camels.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Straighten up & Fly Right - Nat King Cole"
+	file = "new_york_minute/fly_right.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Hidden Truth: The Urge to Kill Women"
+	file = "new_york_minute/show_hidden_truth_urge_to_kill_women.ogg"
+	volume = 1.85
+}
+music = {
+	name = "Comin' Home Baby - Mel Torme"
+	file = "new_york_minute/comin_home_baby.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Interview with Marlon Brando"
+	file = "new_york_minute/show_marlon_brando.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Man Smart (Woman Smarter) - Harry Belfonte"
+	file = "new_york_minute/man_smart.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Folgers Coffee"
+	file = "new_york_minute/ad_folgers_coffee.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Won't Dance - Fred Astaire"
+	file = "new_york_minute/i_wont_dance.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Larry King Interlude"
+	file = "new_york_minute/show_larry_king.ogg"
+	volume = 0.65
+}
+music = {
+	name = "My Kind of Girl - Buddy Greco"
+	file = "new_york_minute/my_kind_of_girl.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Interview With Jane Fonda & Roger Vadim"
+	file = "new_york_minute/show_jane_fonda.ogg"
+	volume = 1.55
+}
+music = {
+	name = "The Impossible Dream - Andy Williams"
+	file = "new_york_minute/impossible_dream.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Jonathan Winters Standup"
+	file = "new_york_minute/show_jonathan_winters.ogg"
+	volume = 1.5
+}
+
+music = {
+	name = "All Alone Am I - Brenda Lee"
+	file = "new_york_minute/all_alone.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Interview with Alfred Hitchcock"
+	file = "new_york_minute/show_alfred_hitchcock.ogg"
+	volume = 1.55
+}
+
+music = {
+	name = "You Can't Put Your Arms Around a Memory - Ronnie Specter"
+	file = "new_york_minute/memory.ogg"
+	volume = 1.0
+}
+music = {
+	name = "Interview with The Beatles"
+	file = "new_york_minute/show_the_beatles.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "The Good Life - Tony Bennett"
+	file = "new_york_minute/good_life.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Interview with Dr Martin Luther King Jr"
+	file = "new_york_minute/show_martin_luther_king.ogg"
+	volume = 1.15
+}
+
+music = {
+	name = "Everybody's Somebody's Fool"
+	file = "new_york_minute/somebody_fool.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Interview with a Lifelong Masked Criminal"
+	file = "new_york_minute/show_criminal.ogg"
+	volume = 1.5
+}
+
+music = {
+	name = "I'll Be Seeing You - Mario Lanza"
+	file = "new_york_minute/seeing_you.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Media vs Hippies"
+	file = "new_york_minute/show_hippies.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Delilah - Tom Jones"
+	file = "new_york_minute/why_delilah.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Interview with Jefferson Airplane in Stockholm"
+	file = "new_york_minute/show_jefferson_airplane.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Love For Sale - Carmen McRae"
+	file = "new_york_minute/love_for_sale.ogg"
+	volume = 0.85
+}
+music = {
+	name = "Interview with Truman Capote"
+	file = "new_york_minute/show_truman_capote.ogg"
+	volume = 2.2
+}
+
+music = {
+	name = "I'm Just a Gigolo - Louis Prima & Keely Smith"
+	file = "new_york_minute/gigolo.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Interview with State Penitrees"
+	file = "new_york_minute/show_prisoner.ogg"
+	volume = 1.5
+}
+
+music = {
+	name = "Angelina - Louis Prima"
+	file = "new_york_minute/angelina.ogg"
+	volume = 0.75
+}
+music = {
+	name = "British Pathé The Elegant Male"
+	file = "new_york_minute/show_elegant_male.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Innamorata - Jimmy Roselli"
+	file = "new_york_minute/innamorata.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Interview with Ayn Rand"
+	file = "new_york_minute/show_ayn_rand.ogg"
+	volume = 1.5
+}
+music = {
+	name = "Speak Softly Love - Al Martino"
+	file = "new_york_minute/speak_softly_love.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Interview with Aldous Huxley"
+	file = "new_york_minute/show_aldous_huxley.ogg"
+	volume = 1.5
+}
+music = {
+	name = "Lazy Mary - Lou Monte"
+	file = "new_york_minute/lazy_mary.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Interview with Malcolm X"
+	file = "new_york_minute/show_malcolm_x.ogg"
+	volume = 1.5
+}
+music = {
+	name = "Pretend You Don't See Her - Jerry Vale"
+	file = "new_york_minute/dont_see_her.ogg"
+	volume = 0.85
+}
+
+###Rock and Sock
+music = {
+	name = "Tutti Frutti - Little Richard"
+	file = "rock_and_sock/tutti_frutti.ogg"
+	volume = 1.0
+}
+music = {
+	name = "Good Golly Miss Molly - Little Richard"
+	file = "rock_and_sock/good_golly.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Johnny B Goode - Chuck Berry"
+	file = "rock_and_sock/johnny_be_goode.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Honky Tonk - Bill Doggett"
+	file = "rock_and_sock/honky_tonk.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Jailhouse Rock - Elvis"
+	file = "rock_and_sock/jailhouse_rock.ogg"
+	volume = 0.85
+}
+music = {
+	name = "Hound Dog - Elvis"
+	file = "rock_and_sock/hound_dog.ogg"
+	volume = 0.65
+}
+music = {
+	name = "When My Blue Moon Turns to Gold - Elvis"
+	file = "rock_and_sock/blue_moon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "All Shook Up - Elvis"
+	file = "rock_and_sock/shook_up.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Summertime Blues - Eddie Cochran"
+	file = "rock_and_sock/summertime_blues.ogg"
+	volume = 0.65
+}
+music = {
+	name = "That'll Be The Day - Buddy Holly"
+	file = "rock_and_sock/the_day.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Maybe Baby - Buddy Holly"
+	file = "rock_and_sock/maybe_baby.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Great Balls of Fire - Jerry Lee Lewis"
+	file = "rock_and_sock/balls_of_fire.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Bye Bye Love - Everly Brothers"
+	file = "rock_and_sock/bye_bye_love.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Maybelline - Chuck Berry"
+	file = "rock_and_sock/maybelline.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Why Do Fools Fall in Love - Frankie Lymon"
+	file = "rock_and_sock/fools_in_love.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Rock Around the Clock - Bill Haley"
+	file = "rock_and_sock/rock_around_the_clock.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tiger - Fabian"
+	file = "rock_and_sock/tiger.ogg"
+	volume = 0.85
+}
+music = {
+	name = "Come On Let Me Try - Linda & The Del Rios"
+	file = "rock_and_sock/come_on.ogg"
+	volume = 0.95
+}
+music = {
+	name = "Believe Me (My Angel) - The Veneers"
+	file = "rock_and_sock/believe_me.ogg"
+	volume = 0.85
+}
+music = {
+	name = "Deserie - The Charts"
+	file = "rock_and_sock/deserie.ogg"
+	volume = 0.75
+}
+music = {
+	name = "I Met Him On A Sunday - The Shirelles"
+	file = "rock_and_sock/met_him_on_sunday.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Florence - The Paragons"
+	file = "rock_and_sock/florence.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Oldies But Goodies - Little Caesar & The Romans"
+	file = "rock_and_sock/oldies.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Chances Are - Johnny Mathis"
+	file = "rock_and_sock/chances_are.ogg"
+	volume = 0.65
+}
+music = {
+	name = "In The Still Of the Night - The Five Satins"
+	file = "rock_and_sock/still_of_the_night.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Black Denim Trousers & Motorcylce Boots - Cheers"
+	file = "rock_and_sock/black_denim.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Chantilly Lace - The Big Bopper"
+	file = "rock_and_sock/chantille_lace.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Rocket 88 - Ike Turner & Jackie Breston"
+	file = "rock_and_sock/rocket_88.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Earth Angel - The Penguins"
+	file = "rock_and_sock/earth_angel.ogg"
+	volume = 0.85
+}
+music = {
+	name = "Why - Anthony Newley"
+	file = "rock_and_sock/why.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Diana - Paul Anka"
+	file = "rock_and_sock/diana.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Only Have Eyes For You - The Flamingos"
+	file = "rock_and_sock/eyes_for_you.ogg"
+	volume = 0.85
+}
+music = {
+	name = "Teenager In Love - Dion"
+	file = "rock_and_sock/teenager_in_love.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mr Purple People Eater"
+	file = "rock_and_sock/purple_people_eater.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pretty Little Angel Eyes - Curtis Lee"
+	file = "rock_and_sock/angel_eyes.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Take Good Care Of My Baby - Bobby Vee"
+	file = "rock_and_sock/my_baby.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Will Follow Him - Little Peggy March"
+	file = "rock_and_sock/follow_him.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Rock and Roll Is Here To Stay - Danny & The Juniors"
+	file = "rock_and_sock/rock_n_roll_stay.ogg"
+	volume = 0.65
+}
+
+##Black and Blues
+
+music = {
+	name = "Minnie the Moocher - Cab Calloway"
+	file = "black_and_blues/minnie_the_moocher.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ain't No Sunshine - Bill Withers"
+	file = "black_and_blues/no_sunshine.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Why I Sing The Blues - B. B. King"
+	file = "black_and_blues/why_i_sing_the_blues.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Rollin' Stone - Muddy Waters"
+	file = "black_and_blues/rollin_stone.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Smokestack Lightnin' - Howlin' Wolf"
+	file = "black_and_blues/smokestack.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Spoonful - Howlin' Wolf"
+	file = "black_and_blues/spoonful.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dark Was The Night - Blind Willie Johnson"
+	file = "black_and_blues/dark_was_the_night.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Love Letters - Ketty Lester"
+	file = "black_and_blues/love_letters.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Crossroad Blues - Robert Johnson"
+	file = "black_and_blues/crossroad_blues.ogg"
+	volume = 0.65
+}
+music = {
+	name = "What A Wonderful World - Louis Armstrong"
+	file = "black_and_blues/what_a_wonderful_world.ogg"
+	volume = 0.65
+}
+music = {
+	name = "La Vie En Rose - Louis Armstrong"
+	file = "black_and_blues/la_vie_en_rose.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Paper Doll - The Mills Brothers"
+	file = "black_and_blues/paper_doll.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Stand By Me - Ben E. King"
+	file = "black_and_blues/stand_by_me.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Red House - Jimi Hendrix"
+	file = "black_and_blues/red_house.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I'd Rather Go Blind - Etta James"
+	file = "black_and_blues/go_blind.ogg"
+	volume = 0.65
+}
+music = {
+	name = "At Last - Etta James"
+	file = "black_and_blues/at_last.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ain't Got No, I Got Life - Nina Simone"
+	file = "black_and_blues/got_life.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Backlash Blues - Nina Simone"
+	file = "black_and_blues/backlash_blues.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Young Gifted and Black - Nina Simone"
+	file = "black_and_blues/gifted_and_black.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Put a Spell on You - Nina Simone"
+	file = "black_and_blues/spell_on_you.ogg"
+	volume = 0.65
+}
+music = {
+	name = "This Train - Sister Rosetta"
+	file = "black_and_blues/this_train.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dead End Street - Lou Rawls"
+	file = "black_and_blues/dead_end_street.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Your Love Keeps Lifting Me Higher - Jackie Wilson"
+	file = "black_and_blues/your_love.ogg"
+	volume = 0.65
+}
+music = {
+	name = "When a Man Loves a Woman - Percy Sledge"
+	file = "black_and_blues/man_loves_a_woman.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Revolution Will Not Be Televised - Gil Scott-Heron"
+	file = "black_and_blues/revolution_televised.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Wanna Help Hurry My Brothers Home - Jimmy Holiday"
+	file = "black_and_blues/brothers_home.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Noah - The Jubilators"
+	file = "black_and_blues/noah.ogg"
+	volume = 1.5
+}
+music = {
+	name = "While I'm Away - Eddy G Giles"
+	file = "black_and_blues/while_im_away.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Uncle Sam - Jimmy Hughes"
+	file = "black_and_blues/uncle_sam.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Oh Freedom - Odetta"
+	file = "black_and_blues/oh_freedom.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Society's Child - Janis Ian"
+	file = "black_and_blues/society_child.ogg"
+	volume = 0.65
+}
+music = {
+	name = "At Seventeen - Janis Ian"
+	file = "black_and_blues/seventeen.ogg"
+	volume = 0.65
+}
+music = {
+	name = "How I Got Over - Mahalia Jackson"
+	file = "black_and_blues/how_i_got_over.ogg"
+	volume = 0.65
+}
+music = {
+	name = "People Get Ready - The Impressions"
+	file = "black_and_blues/people_get_ready.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Strange Fruit - Billy Holiday"
+	file = "black_and_blues/strange_fruit.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Alabama Blues - J.B Lenoir"
+	file = "black_and_blues/alabama_blues.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Stay With Me - Lorraine Ellison"
+	file = "black_and_blues/stay_with_me.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Cry Me a River - Ella Fitzgerald"
+	file = "black_and_blues/cry_me_a_river.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Summertime - Ella Fitzgerald & Louis Armstrong"
+	file = "black_and_blues/summertime.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hold On I'm Coming - Sam & Dave"
+	file = "black_and_blues/im_coming.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Going in Circles - The Friends of Distinction"
+	file = "black_and_blues/going_in_circles.ogg"
+	volume = 0.65
+}
+music = {
+	name = "No More - The Lumpen"
+	file = "black_and_blues/no_more.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Panther - The Last Poets"
+	file = "black_and_blues/panther.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Heritage of the Black Man - Sam Dees"
+	file = "black_and_blues/heritage_black_man.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ghetto Child - The Spinners"
+	file = "black_and_blues/ghetto_child.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Message From A Black Man - The Whatnauts"
+	file = "black_and_blues/message_black_man.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Motor City is Burning - John Lee Hooker"
+	file = "black_and_blues/motor_city.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Is It Because I'm Black? - Syl Johnson"
+	file = "black_and_blues/because_im_black.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I'll Take You There - Staple Singers"
+	file = "black_and_blues/take_you_there.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Respect Yourself - Staple Singers"
+	file = "black_and_blues/respect_yourself.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Wish Someone Would Care - Irma Thomas"
+	file = "black_and_blues/wish_someone_would_care.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Rainy Night in Georgia - Brook Brenton"
+	file = "black_and_blues/rainy_night_in_georgia.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Black Power - James Coit"
+	file = "black_and_blues/black_power.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Right On - Sons of Slum"
+	file = "black_and_blues/right_on.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The End of Silence - Elaine Brown"
+	file = "black_and_blues/end_of_silence.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Born to Lose - Lavern Baker"
+	file = "black_and_blues/born_to_lose.ogg"
+	volume = 0.65
+}
+music = {
+	name = "It's Nation Time - Amiri Baraka"
+	file = "black_and_blues/nation_time.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Try a Little Tenderness - Otis Redding"
+	file = "black_and_blues/a_little_tenderness.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hit The Road Jack - Ray Charles"
+	file = "black_and_blues/road_jack.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Call It Stormy Monday - T-Bone Walker"
+	file = "black_and_blues/stormy_monday.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Goodmorning Schoolgirl - Muddy Waters"
+	file = "black_and_blues/goodmorning_schoolgirl.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ball of Confusion - The Temptations"
+	file = "black_and_blues/ball_of_confusion.ogg"
+	volume = 0.65
+}
+
+##Downtown Motor Tunes##
+music = {
+	name = "Please Mr. Postman - The Marvelettes"
+	file = "downtown_motor_tunes/mr_postman.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Heard It Through The Grapevine - Marvin Gaye"
+	file = "downtown_motor_tunes/grapevine.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ain't No Mountain High Enough - Marvin Gaye"
+	file = "downtown_motor_tunes/mountain_high_enough.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Superstition - Stevie Wonder"
+	file = "downtown_motor_tunes/superstition.ogg"
+	volume = 0.65
+}
+music = {
+	name = "You Keep Me Hanging On - The Supremes"
+	file = "downtown_motor_tunes/hanging_on.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Someday We'll Be Together - The Supremes"
+	file = "downtown_motor_tunes/well_be_together.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Can't Hurry Love - The Supremes"
+	file = "downtown_motor_tunes/cant_hurry_love.ogg"
+	volume = 0.65
+}
+music = {
+	name = "You Beat Me To The Punch - Mary Wells"
+	file = "downtown_motor_tunes/meat_punch.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Reach Out I'll Be There - The Four Tops"
+	file = "downtown_motor_tunes/reach_out.ogg"
+	volume = 0.65
+}
+music = {
+	name = "It's The Same Old Song - The Four Tops"
+	file = "downtown_motor_tunes/same_old_song.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Respect - Aretha Franklin"
+	file = "downtown_motor_tunes/respect.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Never Loved A Man - Aretha Franklin"
+	file = "downtown_motor_tunes/never_loved_a_man.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Chain of Fools - Aretha Franklin"
+	file = "downtown_motor_tunes/chain_of_fools.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Chain Gang - Sam Cooke"
+	file = "downtown_motor_tunes/chain_gang.ogg"
+	volume = 0.65
+}
+music = {
+	name = "A Change Is Gonna Come - Sam Cooke"
+	file = "downtown_motor_tunes/change_gonna_come.ogg"
+	volume = 0.65
+}
+music = {
+	name = "This Is A Man's World - James Brown"
+	file = "downtown_motor_tunes/mans_world.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Shop Around - The Miracles"
+	file = "downtown_motor_tunes/shop_around.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Gee Whiz - Carla Thomas"
+	file = "downtown_motor_tunes/gee_whiz.ogg"
+	volume = 0.65
+}
+music = {
+	name = "(Sittin' On) The Dock Of The Bay - Otis Redding"
+	file = "downtown_motor_tunes/dock_of_the_bay.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Cloud Nine - The Temptations"
+	file = "downtown_motor_tunes/cloud_nine.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Soul Man - Sam & Dave"
+	file = "downtown_motor_tunes/soul_man.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ain't That A Shame - Fats Domino"
+	file = "downtown_motor_tunes/aint_that_a_shame.ogg"
+	volume = 0.65
+}
+music = {
+	name = "What's Going On - Marvin Gaye"
+	file = "downtown_motor_tunes/whats_going_on.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Didn't I Do It Baby - Delfonics"
+	file = "downtown_motor_tunes/do_it_baby.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ain't Too Proud To Beg - The Temptations"
+	file = "downtown_motor_tunes/proud_to_beg.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Reflections - Diana Ross"
+	file = "downtown_motor_tunes/reflections.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Want You Back - Jackson 5"
+	file = "downtown_motor_tunes/want_you_back.ogg"
+	volume = 0.65
+}
+music = {
+	name = "My Guy - Mary Wells"
+	file = "downtown_motor_tunes/my_guy.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Pity The Fool - Bobby Blue Band"
+	file = "downtown_motor_tunes/pity_the_fool.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Blue Guitar - Earl Hooker"
+	file = "downtown_motor_tunes/blue_guitar.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Second That Emotion - Smokey Robinson & The Miracles"
+	file = "downtown_motor_tunes/second_that_emotion.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Who's Lovin' You - Smokey Robinson & The Miracles"
+	file = "downtown_motor_tunes/whos_loving_you.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dancing In The Streets - Martha Reeves & The Vandellas"
+	file = "downtown_motor_tunes/dancing_in_the_streets.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Do You Love Me - The Contours"
+	file = "downtown_motor_tunes/do_you_love_me.ogg"
+	volume = 0.65
+}
+music = {
+	name = "What Becomes of the Brokenhearted - Jimmy Ruffin"
+	file = "downtown_motor_tunes/brokenhearted.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Shotgun - Jr. Walker & The All Stars"
+	file = "downtown_motor_tunes/shotgun.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Money (That's What I Want) - Barrett Strong"
+	file = "downtown_motor_tunes/money.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tears On My Pillow - Little Anthony"
+	file = "downtown_motor_tunes/tears_on_my_pillow.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Be My Baby - The Ronettes"
+	file = "downtown_motor_tunes/be_my_baby.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Cheater - Bob Kuban"
+	file = "downtown_motor_tunes/cheater.ogg"
+	volume = 0.65
+}
+
+##Voice of the Worker##
+music = {
+	name = "Which Side Are You On? - Pete Seeger"
+	file = "voice_of_the_worker/which_side_are_you_on.ogg"
+	volume = 0.65
+}
+music = {
+	name = "God Bless the Grass - Pete Seeger"
+	file = "voice_of_the_worker/bless_the_grass.ogg"
+	volume = 0.65
+}
+music = {
+	name = "We Shall Overcome - Peter Seeger"
+	file = "voice_of_the_worker/we_shall_overcome.ogg"
+	volume = 0.65
+}
+music = {
+	name = "This Land Is Your Land - Woody Guthrie"
+	file = "voice_of_the_worker/land_is_your_land.ogg"
+	volume = 0.65
+}
+music = {
+	name = "America - Simon & Garfunkle"
+	file = "voice_of_the_worker/america.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Atomic Nightmare - Talbott Brothers"
+	file = "voice_of_the_worker/atomic_nightmare.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Indian Reservation - Paul Revere & The Raiders"
+	file = "voice_of_the_worker/indian_reservation.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Johnny Remember Me - John Leyton"
+	file = "voice_of_the_worker/johnny_remember_me.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Man In Black - Johnny Cash"
+	file = "voice_of_the_worker/man_in_black.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ballad of Ira Hayes - Johnny Cash"
+	file = "voice_of_the_worker/ballad_of_ira_hayes.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Folsom Prison Blues - Johnny Cash"
+	file = "voice_of_the_worker/folsom_prison_blues.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Detroit City - Bobby Bare"
+	file = "voice_of_the_worker/detroit_city.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Ain't Marching Anymore - Phil Ochs"
+	file = "voice_of_the_worker/marching_anymore.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dear Uncle Sam - Loretta Lynn"
+	file = "voice_of_the_worker/dear_uncle_sam.ogg"
+	volume = 0.65
+}
+music = {
+	name = "My Son John - Tom Paxton"
+	file = "voice_of_the_worker/my_son_john.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Business Goes on As Usual - Mitchell Trio"
+	file = "voice_of_the_worker/business_goes_on.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bring 'Em Home - Pete Seeger"
+	file = "voice_of_the_worker/bring_em_home.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Wasit Deep in the Big Muddy - Pete Seeger"
+	file = "voice_of_the_worker/big_muddy.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Willing Conscript - Tom Paxton"
+	file = "voice_of_the_worker/willing_conscript.ogg"
+	volume = 0.65
+}
+music = {
+	name = "All You Fascists - Woody Guthrie"
+	file = "voice_of_the_worker/all_you_fascists.ogg"
+	volume = 0.65
+}
+music = {
+	name = "If I Had a Hammer - Pete Seeger"
+	file = "voice_of_the_worker/had_a_hammer.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Love Me I'm A Liberal - Phil Ochs"
+	file = "voice_of_the_worker/liberal.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Green Green Grass of Home - Tom Jones"
+	file = "voice_of_the_worker/green_green_grass.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Show Us The Way - Chico Holiday"
+	file = "voice_of_the_worker/show_us_the_way.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Popular Wobbly - T-Bone Slim"
+	file = "voice_of_the_worker/the_popular_wobbly.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Joe Hill - Paul Robeson"
+	file = "voice_of_the_worker/joe_hill.ogg"
+	volume = 0.65
+}
+music = {
+	name = "War Reporter - Gene Wyles"
+	file = "voice_of_the_worker/war_reporter.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Requiem For The Masses - The Association"
+	file = "voice_of_the_worker/requiem_for_the_masses.ogg"
+	volume = 0.65
+}
+music = {
+	name = "One Tin Soldier - The Original Caste"
+	file = "voice_of_the_worker/one_tin_soldier.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hippie From Olema - The Youngbloods"
+	file = "voice_of_the_worker/hippie_from_olema.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Now That The Buffalo Are Gone - Buffy Sainte Marie"
+	file = "voice_of_the_worker/buffalo_are_gone.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bury My Heart At Wounded Knee - Buffy Sainte Marie"
+	file = "voice_of_the_worker/bury_my_heart.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Custer - Peter La Farge"
+	file = "voice_of_the_worker/custer.ogg"
+	volume = 0.65
+}
+music = {
+	name = "B.I.A - Floyd Red Crow Westerman"
+	file = "voice_of_the_worker/bia.ogg"
+	volume = 0.65
+}
+music = {
+	name = "What Have They Done to the Rain - Marianne Faithfull"
+	file = "voice_of_the_worker/the_rain.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Socialism Train - The Ethiopians"
+	file = "voice_of_the_worker/socialism_train.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Partisan - Leonard Cohen"
+	file = "voice_of_the_worker/the_partisan.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Southern Man - Neil Young"
+	file = "voice_of_the_worker/southern_man.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Rockin' The Cradle - Judy Mayhan"
+	file = "voice_of_the_worker/the_cradle.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Napalm Sticks to Kids - Covered Wagon Musicians"
+	file = "voice_of_the_worker/napalm_kids.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Belong To Glasgow - Danny Kaye"
+	file = "voice_of_the_worker/glasgow.ogg"
+	volume = 0.65
+}
+
+##Country Freedom ##
+
+music = {
+	name = "Act Naturally - Buck Owens"
+	file = "country_freedom/act_naturally.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Little Folks - Charley Pride"
+	file = "country_freedom/little_folks.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Take Me Home, Country Roads - John Denver"
+	file = "country_freedom/country_roads.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Games People Play - Dolly Parton"
+	file = "country_freedom/games_people_play.ogg"
+	volume = 0.65
+}
+music = {
+	name = "My Blue Ridge Mountain Boy - Dolly Parton"
+	file = "country_freedom/blue_ridge_mountain_boy.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Harper Valley PTA - Dolly Parton"
+	file = "country_freedom/pta.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Don't Wanna Play House - Tammy Wynette"
+	file = "country_freedom/play_house.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Stand By Your Man - Tammy Wynette"
+	file = "country_freedom/your_man.ogg"
+	volume = 0.65
+}
+music = {
+	name = "D.I.V.O.R.C.E - Tammy Wynette"
+	file = "country_freedom/divorce.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ring of Fire - Johnny Cash"
+	file = "country_freedom/ring_of_fire.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Oh Lonesome Me - Don Gibson"
+	file = "country_freedom/lonesome_me.ogg"
+	volume = 0.65
+}
+music = {
+	name = "A Horse With No Name - America"
+	file = "country_freedom/horse_with_no_name.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Texas In My Soul - Willie Nelson"
+	file = "country_freedom/texas_soul.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Suspicious Minds - Elvis"
+	file = "country_freedom/suspicious_minds.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Forgot More Than You'll Ever Know - Skeeter Davis"
+	file = "country_freedom/youll_ever_know.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Fuel To The Flame - Skeeter Davis"
+	file = "country_freedom/fuel_to_the_flame.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bus Fare to Kentucky - Skeeter Davis"
+	file = "country_freedom/bus_to_kentucky.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Amos Moses - Jerry Reed"
+	file = "country_freedom/amos_moses.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Walkin' After Midnight - Patsy Cline"
+	file = "country_freedom/after_midnight.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Wings Upon Your Horns - Loretta Lynn"
+	file = "country_freedom/wings_upon_your_horns.ogg"
+	volume = 0.65
+}
+music = {
+	name = "A Coal Miner's Daughter - Loretta Lynn"
+	file = "country_freedom/coal_miners_daughter.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Don't Come Home A Drinkin' - Loretta Lynn"
+	file = "country_freedom/home_a_drinkin.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Race is On - George Jones"
+	file = "country_freedom/race_is_on.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Chug-a-lug - Roger Miller"
+	file = "country_freedom/chug_a_lug.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Man Of Constant Sorrow - The Stanley Brothers"
+	file = "country_freedom/man_of_constant_sorrow.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Old Dogs, Children, and Watermelon Wine - Tom T. Hall"
+	file = "country_freedom/old_dogs.ogg"
+	volume = 0.65
+}
+music = {
+	name = "She's Got You - Patsy Cline"
+	file = "country_freedom/shes_got_you.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Your Cheatin' Heart - Hank Williams"
+	file = "country_freedom/cheatin_heart.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Convoy - C.W. McCall"
+	file = "country_freedom/convoy.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Suicide is Painless - M.A.S.H"
+	file = "country_freedom/suicide.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ballad of Davy Crockett - Fess Parker"
+	file = "country_freedom/davy_crockett.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Everybody's Talking - Harry Nilsson"
+	file = "country_freedom/everybodys_talking.ogg"
+	volume = 0.65
+}
+music = {
+	name = "24 Hours From Tulsa - Gene Pitney"
+	file = "country_freedom/24_hours_from_tulsa.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Forgot To Remember To Forget You - Elvis"
+	file = "country_freedom/forget_remember.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Old Shep - Elvis"
+	file = "country_freedom/old_shep.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Rag Mama Rag - The Band"
+	file = "country_freedom/rag_mama_rag.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Forgive Me, John - Jean Shepard & Ferlin Husky"
+	file = "country_freedom/forgive_me_john.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dear Joan - Jack Cardwell"
+	file = "country_freedom/dear_joan.ogg"
+	volume = 0.65
+}
+music = {
+	name = "A Heartsick Soldier on Heartbreak Ridge - Ernest Tubb"
+	file = "country_freedom/heartsick_soldier.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Carolina In My Mind - James Taylor"
+	file = "country_freedom/carolina_in_my_mind.ogg"
+	volume = 0.65
+}
+
+##KKK ##
+
+music = {
+	name = "Devil Woman - Marty Robbins"
+	file = "kentucky_klassic_kommunications/devil_woman.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The End of the World - Skeeter Davis"
+	file = "kentucky_klassic_kommunications/end_of_the_world.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Crazy - Patsy Cline"
+	file = "kentucky_klassic_kommunications/crazy.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hello Walls - Faron Young"
+	file = "kentucky_klassic_kommunications/hello_walls.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Poor Left Winger - Janet Greene"
+	file = "kentucky_klassic_kommunications/poor_left_winger.ogg"
+	volume = 0.65
+}
+music = {
+	name = "It Wasn't God Who Made Honkey Tonk Angels - Loretta Lynn"
+	file = "kentucky_klassic_kommunications/honky_tonk_angels.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I'm A White Boy - Merle Haggard"
+	file = "kentucky_klassic_kommunications/white_boy.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mama Tried - Merle Haggard"
+	file = "kentucky_klassic_kommunications/mama_tried.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Okie From Muskogee - Merle Haggard"
+	file = "kentucky_klassic_kommunications/okie_from_muskogee.ogg"
+	volume = 0.65
+}
+music = {
+	name = "God The South - George Henry Miles"
+	file = "kentucky_klassic_kommunications/god_the_south.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Free Bird - Lynyrd Skynyrd"
+	file = "kentucky_klassic_kommunications/free_bird.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Big Iron - Marty Robbins"
+	file = "kentucky_klassic_kommunications/big_iron.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I'm No Communist - Lulu Belle & Scotty"
+	file = "kentucky_klassic_kommunications/no_communist.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Get That Communist Joe - The Kavaliers"
+	file = "kentucky_klassic_kommunications/communist_joe.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sweet Home Alabama - Lynyrd Skynyrd"
+	file = "kentucky_klassic_kommunications/sweet_home_alabama.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Only In America - Jay & The Americans"
+	file = "kentucky_klassic_kommunications/only_in_america.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Blue Eyes - The International Submarine Band"
+	file = "kentucky_klassic_kommunications/blue_eyes.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Ballad of the Yellow Beret - The Beach Bums"
+	file = "kentucky_klassic_kommunications/yellow_beret.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I'm the Man - Tom Paxton"
+	file = "kentucky_klassic_kommunications/im_the_man.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dawn of Correction - The Spokesmen"
+	file = "kentucky_klassic_kommunications/dawn_of_correction.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Battle Hymn of Lt Calley - C Company"
+	file = "kentucky_klassic_kommunications/lt_calley.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ain't I Right - Marty Robbins"
+	file = "kentucky_klassic_kommunications/aint_i_right.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Night They Drove Old Dixie Down - Joan Baez"
+	file = "kentucky_klassic_kommunications/dixie_down.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Minute Men (Are Turning In Their Graves) - Stonewall Jackson"
+	file = "kentucky_klassic_kommunications/minutemen.ogg"
+	volume = 0.65
+}
+music = {
+	name = "It's America Love It Or Leave It - Ernest Tubb"
+	file = "kentucky_klassic_kommunications/america_love_it.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Freedom's Cause - Billy Floyd"
+	file = "kentucky_klassic_kommunications/freedoms_cause.ogg"
+	volume = 0.65
+}
+music = {
+	name = "It's For God, and Country, and You Mom - Ernest Tubb"
+	file = "kentucky_klassic_kommunications/god_country_mom.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Told Them What You're Fighting For - Mother Maybelle Carter"
+	file = "kentucky_klassic_kommunications/fighting_for.ogg"
+	volume = 0.65
+}
+music = {
+	name = "An Open Letter To My Teenage Son - Victor Lundberg"
+	file = "kentucky_klassic_kommunications/teenage_son.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Unpatriotic Itchin Needs a Patriotic Scratch - Tommy Cash"
+	file = "kentucky_klassic_kommunications/patriotic_scratch.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Keep the Flag Flying - Johnny Wright"
+	file = "kentucky_klassic_kommunications/flag_flying.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Universal Coward - Jan Berry"
+	file = "kentucky_klassic_kommunications/universal_coward.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Conscientious Objector - Faron Young"
+	file = "kentucky_klassic_kommunications/conscientious_objector.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Fightin' For The U.S.A - Jerry Reed"
+	file = "kentucky_klassic_kommunications/fighting_for_the_usa.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Prophet - The Patriots"
+	file = "kentucky_klassic_kommunications/the_prophet.ogg"
+	volume = 0.65
+}
+music = {
+	name = "P.O.W - The Lonesome Valley Singers"
+	file = "kentucky_klassic_kommunications/pow.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I'm Afraid To Go Home - Brian Hyland"
+	file = "kentucky_klassic_kommunications/afraid_to_go_home.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Protest - Merv Shiner"
+	file = "kentucky_klassic_kommunications/protest.ogg"
+	volume = 0.65
+}
+music = {
+	name = "My Daddy Is a Soldier - Earline Head"
+	file = "kentucky_klassic_kommunications/my_daddy_soldier.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Stand And Be Counted - The Green Machine"
+	file = "kentucky_klassic_kommunications/stand_and_be_counted.ogg"
+	volume = 0.65
+}
+music = {
+	name = "What About God And Country - Larry Heaberlin"
+	file = "kentucky_klassic_kommunications/god_country.ogg"
+	volume = 0.65
+}
+music = {
+	name = "What's The Matter? - Tommy Cox"
+	file = "kentucky_klassic_kommunications/whats_the_matter.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Silent Majority - Jack Reeves"
+	file = "kentucky_klassic_kommunications/silent_majority.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Battle of New Orleans - Harpers Bizarre"
+	file = "kentucky_klassic_kommunications/new_orleans.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Good Ol Rebel - Hoyt Axton"
+	file = "kentucky_klassic_kommunications/good_ol_rebel.ogg"
+	volume = 0.65
+}
+music = {
+	name = "South's Gonna Rise Again - Jesse James"
+	file = "kentucky_klassic_kommunications/south_rise_again.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Voice of Free America - Jimmy Osborne"
+	file = "kentucky_klassic_kommunications/voice_of_free_america.ogg"
+	volume = 0.65
+}
+
+#Patriotic 66 #
+music = {
+	name = "Praise the Lord and Pass the Ammunition - Kay Kyser"
+	file = "patriotic_66/praise_lord_ammunition.ogg"
+	volume = 0.65
+}
+music = {
+	name = "An American Trilogy - Elvis"
+	file = "patriotic_66/an_american_trilogy.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Viva Las Vegas - Elvis"
+	file = "patriotic_66/viva_las_vegas.ogg"
+	volume = 0.65
+}
+music = {
+	name = "America The Beautiful - Leonard Warren"
+	file = "patriotic_66/america_the_beautiful.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Battle Hymn of the Republic - Johnny Cash"
+	file = "patriotic_66/battle_hymn.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Marine's Hymn - Oscar Brand"
+	file = "patriotic_66/marines_hymn.ogg"
+	volume = 0.65
+}
+music = {
+	name = "God Bless America - Kate Smith"
+	file = "patriotic_66/god_bless_america.ogg"
+	volume = 0.65
+}
+music = {
+	name = "America My Country Is of Thee - Nelson Eddy"
+	file = "patriotic_66/my_country.ogg"
+	volume = 0.65
+}
+music = {
+	name = "American Salute - Eugene Ormandy"
+	file = "patriotic_66/american_salute.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Gallant Men - Everett McKinley Dirksen"
+	file = "patriotic_66/gallant_men.ogg"
+	volume = 0.65
+}
+music = {
+	name = "American Power - Johnny Wright"
+	file = "patriotic_66/american_power.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Proud American - Hershel Gober"
+	file = "patriotic_66/proud_american.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Uncle Sam's Navy - Johnny Martin"
+	file = "patriotic_66/uncle_sam_navy.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Private Wilson White - Marty Robbins"
+	file = "patriotic_66/private_white.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Wanted Man - Jerry Hayes"
+	file = "patriotic_66/wanted_man.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Battle Hymn of the Red River Rats - Dick Jonas"
+	file = "patriotic_66/battle_hymn_rats.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Ballad of the Green Berets - SSgt. Barry Sadler"
+	file = "patriotic_66/ballad_green_beret.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Colonel Bogey March - F. J. Ricketts"
+	file = "patriotic_66/col_bogey.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Over There - George M.Cohan"
+	file = "patriotic_66/over_there.ogg"
+	volume = 0.65
+}
