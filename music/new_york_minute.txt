@@ -1,0 +1,579 @@
+
+music_station = "new_york_minute"
+
+music = {
+	song = "Interview with Andy Worhol & Edie Sedgwick"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "The Way You Look Tonight - Frank Sinatra"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "What is the Fabian Society with Groucho Marx"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Something Stupid - Frank Sinatra & Nancy Sinatra"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Interview with Frank Sinatra"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "I Have Dreamed - Frank Sinatra"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Your FBI: Pan American Patriots"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "New York New York - Frank Sinatra"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "George Carlin Reelin in the Years"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Everybody Loves Somebody - Dean Martin"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "John J Anthony Marital Relations"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Ain't That A Kick In The Head - Dean Martin"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Interview with Marilyn Monroe"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "I Have But One Heart - Dean Martin"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Your FBI: The Melancholy Mind Reader"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Gonna Build Me a Mountain - Sammy Davis Jr"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Salvador Dali What's My Line?"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "I've Gotta Be Me - Sammy Davis Jr"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Interview with Sammy Davis Jr"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "All of You - Sammy Davis Jr"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "How To Spot A Communist"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Mambo Italiano - Rosemary Clooney"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Hidden Truth: Two Deaths by Poison"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "I Just Don't Know What to Do with Myself - Dionne Warwick"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+
+music = {
+	song = "Free University"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Alfie - Dionne Warwick"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Interview with Leonard Cohen"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Unforgettable - Nat King Cole"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Doctors Smoke Camels"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Straighten up & Fly Right - Nat King Cole"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Hidden Truth: The Urge to Kill Women"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Comin' Home Baby - Mel Torme"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Interview with Marlon Brando"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Man Smart (Woman Smarter) - Harry Belfonte"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Folgers Coffee"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "I Won't Dance - Fred Astaire"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Larry King Interlude"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "My Kind of Girl - Buddy Greco"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Interview With Jane Fonda & Roger Vadim"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "The Impossible Dream - Andy Williams"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	 song = "Jonathan Winters Standup"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+
+music = {
+	song = "All Alone Am I - Brenda Lee"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Interview with Alfred Hitchcock"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+
+music = {
+	song = "You Can't Put Your Arms Around a Memory - Ronnie Specter"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Interview with The Beatles"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+
+music = {
+	song = "The Good Life - Tony Bennett"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Interview with Dr Martin Luther King Jr"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+
+music = {
+	song = "Everybody's Somebody's Fool"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Interview with a Lifelong Masked Criminal"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+
+music = {
+	song = "I'll Be Seeing You - Mario Lanza"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "The Media vs Hippies"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+
+music = {
+	song = "Delilah - Tom Jones"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Interview with Jefferson Airplane in Stockholm"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+
+music = {
+	song = "Love For Sale - Carmen McRae"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Interview with Truman Capote"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+
+music = {
+	song = "I'm Just a Gigolo - Louis Prima & Keely Smith"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Interview with State Penitrees"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+
+music = {
+	song = "Angelina - Louis Prima"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "British Pathé The Elegant Male"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Innamorata - Jimmy Roselli"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Interview with Ayn Rand"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Speak Softly Love - Al Martino"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Interview with Aldous Huxley"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Lazy Mary - Lou Monte"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Interview with Malcolm X"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Pretend You Don't See Her - Jerry Vale"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}

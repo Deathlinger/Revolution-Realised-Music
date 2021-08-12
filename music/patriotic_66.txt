@@ -1,0 +1,155 @@
+
+music_station = "patriotic_66"
+music = {
+	song = "Praise the Lord and Pass the Ammunition - Kay Kyser"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "An American Trilogy - Elvis"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Viva Las Vegas - Elvis"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "America The Beautiful - Leonard Warren"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Battle Hymn of the Republic - Johnny Cash"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "The Marine's Hymn - Oscar Brand"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "God Bless America - Kate Smith"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "America My Country Is of Thee - Nelson Eddy"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "American Salute - Eugene Ormandy"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Gallant Men - Everett McKinley Dirksen"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "American Power - Johnny Wright"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Proud American - Hershel Gober"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Uncle Sam's Navy - Johnny Martin"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Private Wilson White - Marty Robbins"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Wanted Man - Jerry Hayes"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Battle Hymn of the Red River Rats - Dick Jonas"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "The Ballad of the Green Berets - SSgt. Barry Sadler"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Colonel Bogey March - F. J. Ricketts"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Over There - George M.Cohan"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
