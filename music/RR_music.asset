@@ -1012,6 +1012,11 @@ music = {
 	file = "hippie_jams/working_class_hero.ogg"
 	volume = 0.65
 }
+music = {
+	name = "Calling Occupants of Interplanetary Craft - Klaatu"
+	file = "hippie_jams/interplanetary_craft.ogg"
+	volume = 0.65
+}
 
 ## New York Minute ##
 music = {
@@ -1370,6 +1375,16 @@ music = {
 music = {
 	name = "Pretend You Don't See Her - Jerry Vale"
 	file = "new_york_minute/dont_see_her.ogg"
+	volume = 0.85
+}
+music = {
+	name = "Interview with Oswald Mosley"
+	file = "new_york_minute/mosley.ogg"
+	volume = 0.85
+}
+music = {
+	name = "Carina - Sophia Loren"
+	file = "new_york_minute/carina.ogg"
 	volume = 0.85
 }
 
@@ -2611,7 +2626,7 @@ music = {
 	volume = 0.65
 }
 music = {
-	name = "The Minute Men (Are Turning In Their Graves) - Stonewall Jackson"
+	name = "The Minute Men - Stonewall Jackson"
 	file = "kentucky_klassic_kommunications/minutemen.ogg"
 	volume = 0.65
 }
@@ -2826,5 +2841,156 @@ music = {
 music = {
 	name = "Over There - George M.Cohan"
 	file = "patriotic_66/over_there.ogg"
+	volume = 0.65
+}
+#Republic| Royalty Free#
+music = {
+	name = "Boulveard St.Germaine - Jahzzar"
+	file = "republic_royalty_free/stgermaine.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Please Listen Carefully - Jahzzar"
+	file = "republic_royalty_free/listen_carefully.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Like A Straightjacket - The Wavers"
+	file = "republic_royalty_free/straightjacket.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sugunugnu - Raul Cabezali"
+	file = "republic_royalty_free/sugma.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Fititu - Raul Cabezali"
+	file = "republic_royalty_free/fititu.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Garage Surf - Joel Loopez"
+	file = "republic_royalty_free/garage_surf.ogg"
+	volume = 0.65
+}
+music = {
+	name = "When I Look Up At The Sky - Kara Square & Piero Peluche"
+	file = "republic_royalty_free/the_sky.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Man That Time Forgot - Heifervescant"
+	file = "republic_royalty_free/time_forgot.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Heart of Stone - Marwood Williams"
+	file = "republic_royalty_free/heart_of_stone.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Inspired - BLIK"
+	file = "republic_royalty_free/inspired.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Night Item - Joe Keller Band"
+	file = "republic_royalty_free/night_item.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Searching - Robert80z"
+	file = "republic_royalty_free/searching.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lets Leave the Party - Robert80z"
+	file = "republic_royalty_free/leave_the_party.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dirty Road Blues - Kingston Blues"
+	file = "republic_royalty_free/dirty_road_blues.ogg"
+	volume = 0.65
+}
+music = {
+	name = "White Wave - The Kinky Fingers"
+	file = "republic_royalty_free/white_wave.ogg"
+	volume = 0.65
+}
+music = {
+	name = "On A Simple Palm - Paolo Orecchia"
+	file = "republic_royalty_free/simple_palm.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Guard Prostitute - Paolo Orecchia"
+	file = "republic_royalty_free/guard_prostitute.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bonnie Lass Ye Are - John Russell"
+	file = "republic_royalty_free/bonnie_lass.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Up and Down - The Wavers"
+	file = "republic_royalty_free/updog.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Limes - Little Suspicions"
+	file = "republic_royalty_free/limes.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Black Cat - Heifervescant"
+	file = "republic_royalty_free/black_cat.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Human Transponder - Heifervescant"
+	file = "republic_royalty_free/human_transponder.ogg"
+	volume = 0.65
+}
+music = {
+	name = "One Way Out - Heifervescant"
+	file = "republic_royalty_free/one_way_out.ogg"
+	volume = 0.65
+}
+music = {
+	name = "White Camarillo - Heifervescant"
+	file = "republic_royalty_free/white_camarillo.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Barbershop Doo-Wop - PineGroove"
+	file = "republic_royalty_free/barbershop.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Watching Out - J.F. Gloss"
+	file = "republic_royalty_free/watching_out.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hide and Peek - J.F. Gloss"
+	file = "republic_royalty_free/hide_and_peek.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Blood From A Stone - Arch Tremors"
+	file = "republic_royalty_free/blood_from_a_stone.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Say Darling - Dar Golan"
+	file = "republic_royalty_free/say_darling.ogg"
+	volume = 0.65
+}
+music = {
+	name = "60s - Dar Golan"
+	file = "republic_royalty_free/60s.ogg"
 	volume = 0.65
 }

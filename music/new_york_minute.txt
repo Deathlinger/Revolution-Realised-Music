@@ -577,3 +577,19 @@ music = {
 		}		
 	}
 }
+music = {
+	song = "Interview with Oswald Mosley"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Carina - Sophia Loren"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}

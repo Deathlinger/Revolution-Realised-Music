@@ -466,3 +466,11 @@ music = {
 		}		
 	}
 }
+music = {
+	song = "Calling Occupants of Interplanetary Craft - Klaatu"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}

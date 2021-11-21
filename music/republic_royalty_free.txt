@@ -1,0 +1,244 @@
+
+music_station = "republic_royalty_free"
+
+music = {
+	song = "Boulveard St.Germaine - Jahzzar"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Please Listen Carefully - Jahzzar"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Like A Straightjacket - The Wavers"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Sugunugnu - Raul Cabezali"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Fititu - Raul Cabezali"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Garage Surf - Joel Loopez"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "When I Look Up At The Sky - Kara Square & Piero Peluche"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "The Man That Time Forgot - Heifervescant"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Heart of Stone - Marwood Williams"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Inspired - BLIK"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Night Item - Joe Keller Band"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Searching - Robert80z"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Lets Leave the Party - Robert80z"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Dirty Road Blues - Kingston Blues"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "White Wave - The Kinky Fingers"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "On A Simple Palm - Paolo Orecchia"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "The Guard Prostitute - Paolo Orecchia"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Bonnie Lass Ye Are - John Russell"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Up and Down - The Wavers"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Limes - Little Suspicions"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Black Cat - Heifervescant"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Human Transponder - Heifervescant"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "One Way Out - Heifervescant"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "White Camarillo - Heifervescant"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Barbershop Doo-Wop - PineGroove"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Watching Out - J.F. Gloss"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Hide and Peek - J.F. Gloss"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Blood From A Stone - Arch Tremors"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Say Darling - Dar Golan"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "60s - Dar Golan"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+

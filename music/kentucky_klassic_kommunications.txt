@@ -185,7 +185,7 @@ music = {
 	}
 }
 music = {
-	song = "The Minute Men (Are Turning In Their Graves) - Stonewall Jackson"
+	song = "The Minute Men - Stonewall Jackson"
 	chance = {
 		modifier = {
 			factor = 1

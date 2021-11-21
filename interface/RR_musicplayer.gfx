@@ -54,5 +54,10 @@ spriteTypes = {
 		texturefile = "gfx//interface//topbar//musicplayer//RR_patriotic_66_bg.dds"
 		noOfFrames = 2
 	}
+	spriteType = {
+		name = "GFX_republic_royalty_free_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//RR_republic_royalty_free_bg.dds"
+		noOfFrames = 2
+	}
 	
 }
