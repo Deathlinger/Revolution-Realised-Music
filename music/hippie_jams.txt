@@ -474,3 +474,11 @@ music = {
 		}		
 	}
 }
+music = {
+	song = "Time in a Bottle - Jim Croce"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}

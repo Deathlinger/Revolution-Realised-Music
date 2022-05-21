@@ -1017,6 +1017,11 @@ music = {
 	file = "hippie_jams/interplanetary_craft.ogg"
 	volume = 0.65
 }
+music = {
+	name = "Time in a Bottle - Jim Croce"
+	file = "hippie_jams/time_in_a_bottle.ogg"
+	volume = 0.65
+}
 
 ## New York Minute ##
 music = {
