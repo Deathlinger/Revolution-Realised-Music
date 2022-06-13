@@ -313,6 +313,30 @@ music = {
 	}
 }
 music = {
+	song = "CIA Man - The Fugs"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "We Are Revolutionaries - Dean Reed"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Fancy - Bobbie Gentry"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "I Belong To Glasgow - Danny Kaye"
 	chance = {
 		modifier = {
