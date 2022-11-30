@@ -1,7 +1,7 @@
-version="1.11"
+version="1.12.*"
 tags={
 	"Sound"
 	"Historical"
 }
-name="Revolution Realized Music"
-supported_version="1.11.*"
+name="Revolution Realised Music"
+supported_version="1.12.*"
