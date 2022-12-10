@@ -1,9 +1,9 @@
-# MAIN THEME - CUSTOM
-music = {
-	name = "maintheme"
-	file = "rr_main_theme.ogg"
-	volume = 0.65
-}
+## MAIN THEME - CUSTOM
+#music = {
+#	name = "maintheme"
+#	file = "rr_main_theme.ogg"
+#	volume = 0.65
+#}
 
 # PIRATE RADIO
 music = {
