@@ -1,0 +1,11 @@
+
+music_station = "theyre_among_us"
+
+music = {
+	song = "Witch of Endor - Moondog"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}

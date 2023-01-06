@@ -3014,3 +3014,9 @@ music = {
 	file = "republic_royalty_free/60s.ogg"
 	volume = 0.65
 }
+#They're Among Us
+music = {
+	name = "Witch of Endor - Moondog"
+	file = "theyre_among_us/witch.ogg"
+	volume = 0.65
+}
