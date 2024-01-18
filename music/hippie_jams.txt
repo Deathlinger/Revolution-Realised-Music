@@ -283,6 +283,14 @@ music = {
 	}
 }
 music = {
+	song = "All Along the Watchtower - Jimi Hendrix"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "Ohio - Crosby, Stills, Nash, & Young"
 	chance = {
 		modifier = {
