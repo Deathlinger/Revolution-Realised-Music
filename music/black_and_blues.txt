@@ -496,4 +496,12 @@ music = {
 		}		
 	}
 }
+music = {
+	song = "Georgia on my Mind - Ray Charles"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
 
