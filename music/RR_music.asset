@@ -1027,6 +1027,11 @@ music = {
 	file = "hippie_jams/time_in_a_bottle.ogg"
 	volume = 0.65
 }
+music = {
+	name = "Stuck in the Middle With You - Stealers Wheel"
+	file = "hippie_jams/stuckinthemiddle.ogg"
+	volume = 0.65
+}
 
 ## New York Minute ##
 music = {

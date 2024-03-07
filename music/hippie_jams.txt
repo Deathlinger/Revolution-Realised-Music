@@ -490,3 +490,11 @@ music = {
 		}		
 	}
 }
+music = {
+	song = "Stuck in the Middle With You - Stealers Wheel"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
