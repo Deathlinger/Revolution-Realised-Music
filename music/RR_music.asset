@@ -1271,8 +1271,8 @@ music = {
 }
 
 music = {
-	name = "You Can't Put Your Arms Around a Memory - Ronnie Specter"
-	file = "new_york_minute/memory.ogg"
+	name = "Tender is the night - Vic Damone"
+	file = "new_york_minute/tender_night.ogg"
 	volume = 1.0
 }
 music = {
