@@ -3035,3 +3035,69 @@ music = {
 	file = "theyre_among_us/witch.ogg"
 	volume = 0.65
 }
+music = {
+	name = "Out of the World - Paul Tanner & Andre Montero"
+	file = "theyre_among_us/Outoftheworld.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Wished on the Moon - Paul Tanner & Andre Montero"
+	file = "theyre_among_us/WishedMoon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Red Sea of Mars - Paul Tanner & Andre Montero"
+	file = "theyre_among_us/RedSea.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lost in the Stars - Paul Tanner & Andre Montero"
+	file = "theyre_among_us/LostStars.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Man in Space with Sounds - Attilio Mineo"
+	file = "theyre_among_us/maninspace.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sinfonia in Moog Minor - Wendy Carlos & Bach"
+	file = "theyre_among_us/bachmoog.ogg"
+	volume = 0.65
+}
+music = {
+	name = "From Another World - Sid Bass"
+	file = "theyre_among_us/anotherworld.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Old Devil Moon - Sid Bass"
+	file = "theyre_among_us/DevilMoon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Stratosfear - Tangerine Dream"
+	file = "theyre_among_us/Stratosfear.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Big Ship - Brian Eno"
+	file = "theyre_among_us/bigship.ogg"
+	volume = 0.65
+}
+music = {
+	name = "A Love Song - Pauline Oliveros"
+	file = "theyre_among_us/lovesong.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Forbidden Planet - Louis & Bebe Barron"
+	file = "theyre_among_us/forbidden.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lunar Rhapsody - Dr Samuel Hoffman"
+	file = "theyre_among_us/Lunar.ogg"
+	volume = 0.65
+}
+

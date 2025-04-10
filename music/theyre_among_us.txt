@@ -9,3 +9,108 @@ music = {
 		}		
 	}
 }
+music = {
+	song = "Out of the World - Paul Tanner & Andre Montero"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "I Wished on the Moon - Paul Tanner & Andre Montero"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "The Red Sea of Mars - Paul Tanner & Andre Montero"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Lost in the Stars - Paul Tanner & Andre Montero"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Man in Space with Sounds - Attilio Mineo"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Sinfonia in Moog Minor - Wendy Carlos & Bach"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "From Another World - Sid Bass"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Old Devil Moon - Sid Bass"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Stratosfear - Tangerine Dream"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "The Big Ship - Brian Eno"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "A Love Song - Pauline Oliveros"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Forbidden Planet - Louis & Bebe Barron"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Lunar Rhapsody - Dr Samuel Hoffman"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
