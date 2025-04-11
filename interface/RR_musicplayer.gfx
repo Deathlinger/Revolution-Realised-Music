@@ -63,6 +63,10 @@ spriteTypes = {
 		name = "GFX_theyre_among_us_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//RR_theyre_among_us_bg.dds"
 		noOfFrames = 2
+	}spriteType = {
+		name = "GFX_future_philharmonics_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//RR_future_philharmonics.dds"
+		noOfFrames = 2
 	}
 	
 }

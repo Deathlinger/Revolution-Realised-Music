@@ -3101,3 +3101,242 @@ music = {
 	volume = 0.65
 }
 
+#Future Philharmonics
+
+music = {
+	name = "Telstar - Joe Meek & Al Casey"
+	file = "future_philharmonics/telstar.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Orbit Around the Moon - Joe Meek"
+	file = "future_philharmonics/orbitmoon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Hear a New World - Joe Meek"
+	file = "future_philharmonics/hearanewworld.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Astronomy Domine - Pink Floyd"
+	file = "future_philharmonics/astronomydomine.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Silver Machine - Hawkwind"
+	file = "future_philharmonics/silver_machine.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hard Coming Love - The United States of America"
+	file = "future_philharmonics/hard_coming_love.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Song of the Second Moon - Tom Dissevelt & Kid Baltan"
+	file = "future_philharmonics/second_moon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Cosmic Ballad - Perrey Kingsley"
+	file = "future_philharmonics/cosmic_ballad.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Computer in Love - Perrey Kingsley"
+	file = "future_philharmonics/computer.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Oscillations - Silver Apples"
+	file = "future_philharmonics/oscillations.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Have Known Love - Silver Apples"
+	file = "future_philharmonics/known_love.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Na Na Hey Hey Kiss Him Goodbye - Claude Denjean"
+	file = "future_philharmonics/nana.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Apache - Rod Hunter"
+	file = "future_philharmonics/apache.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Section 1 - Paul Beaver & Bernard L. Krause"
+	file = "future_philharmonics/section1.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Topless Dancers of Corfu - Dick Hyman"
+	file = "future_philharmonics/corfu.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Moog and Me - Dick Hyman"
+	file = "future_philharmonics/moognme.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Minotaur - Dick Hyman"
+	file = "future_philharmonics/minotaur.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Electric to Me Turn - Bruce Haack"
+	file = "future_philharmonics/electricturn.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Song of the Death Machine - Bruce Haack"
+	file = "future_philharmonics/death_machine.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lie Back - Bruce Haack"
+	file = "future_philharmonics/lie_back.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Cherubic Hymn - Bruce Haack"
+	file = "future_philharmonics/cherubic_hymn.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Upset Strip - Mort Garson"
+	file = "future_philharmonics/upset_strip.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I Didn't Know What Time It Was - Dean Elliot"
+	file = "future_philharmonics/time.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Disco Computer - Transvolta"
+	file = "future_philharmonics/disco_computer.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Los Angeles - Teddy Lasry"
+	file = "future_philharmonics/LA.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Moondog Can You Hear Me - Chris Swansen"
+	file = "future_philharmonics/moondog_hear.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Love Without Sound - White Noise"
+	file = "future_philharmonics/Love_Without_Sound.ogg"
+	volume = 0.65
+}
+music = {
+	name = "My Game of Loving - White Noise"
+	file = "future_philharmonics/game_love.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Milkweed Love - Lothar and the Hand Peter"
+	file = "future_philharmonics/milkweed.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ziwzih Ziwzih OO-OO-OO - Delia Derbyshire"
+	file = "future_philharmonics/ziwzih.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Savoy Truffle - Terry Manning"
+	file = "future_philharmonics/savoy_truffle.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Neon Accelerando - John Mills"
+	file = "future_philharmonics/neon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Popcorn - Hot Butter"
+	file = "future_philharmonics/popcorn.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Time and a Word - Yes"
+	file = "future_philharmonics/time_word.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Feels Good - Electra"
+	file = "future_philharmonics/electra.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Space Art - Onyx"
+	file = "future_philharmonics/space_art.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Force - The Droids"
+	file = "future_philharmonics/force.ogg"
+	volume = 0.65
+}
+music = {
+	name = "A Thousand Ages From The Sun - The Electric Banana"
+	file = "future_philharmonics/electric_banana.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Red The Sign Post - Cauldron"
+	file = "future_philharmonics/red_sign.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Animosity - Fred Weinberg"
+	file = "future_philharmonics/animosity.ogg"
+	volume = 0.65
+}
+music = {
+	name = "A Theme For Julie - Fred Weinberg"
+	file = "future_philharmonics/julie.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bloodstone - Emil Richards"
+	file = "future_philharmonics/bloodstone.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mary France - Jean-Jacques Perrey"
+	file = "future_philharmonics/mary_france.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Island in Space - Jean-Jacques Perrey"
+	file = "future_philharmonics/islands_in_space.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Little Girl From Mars - Jean-Jacques Perrey"
+	file = "future_philharmonics/girl_from_mars.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Raven - Alan Parsons Project"
+	file = "future_philharmonics/raven.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Night and Day - Raymond Scott"
+	file = "future_philharmonics/night_day.ogg"
+	volume = 0.65
+}
+
